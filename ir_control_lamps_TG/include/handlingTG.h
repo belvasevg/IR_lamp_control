@@ -2,7 +2,7 @@
 
 #include "portsConf.h"
 #include "tgBot.h"
-#include "lamp_control.h"
+#include "lamp_control.cpp"
 
 
 IRsend irsend(IR_SIGNAL);
